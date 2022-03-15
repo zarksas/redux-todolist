@@ -1,0 +1,71 @@
+.card {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.blok {
+    width: 600px;
+    height: 600px;
+    text-align: center;
+    background-color: rgba(2, 2, 2, 0.795);
+    margin: auto;
+    border-radius: 10px;
+}
+
+.input {
+    margin-top: 20px;
+    color: blue;
+}
+
+.buttonAdd {
+    width: 60px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.buttonAdd:hover {
+    background-color: blue;
+    color: white;
+}
+
+.main {
+    margin-top: 20px;
+}
+
+.b1 {
+    width: 600px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.string {
+    width: 200px;
+    color: white;
+    text-align: center;
+}
+
+.change {
+    width: 120px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+}
+
+.change:hover {
+    background-color: blue;
+    color: white;
+}
+
+.x {
+    cursor: pointer;
+    border: none;
+}
+
+.x:hover {
+    background-color: blue;
+    color: white;
+}
+
+
+
